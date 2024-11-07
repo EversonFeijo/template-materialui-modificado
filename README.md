@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # template-materialui-modificado
 Projeto modificado para a atividade prática modulo 10
 
@@ -37,3 +38,4 @@ O projeto segue a estrutura padrão de uma aplicação React, com pastas para co
 
 Conclusão
 Esta atividade prática proporciona uma experiência completa de versionamento, essencial para o desenvolvimento de software profissional. Versionar um projeto permite que as alterações sejam registradas e facilita o trabalho colaborativo com outros desenvolvedores.
+=======
